@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+streamlit
+requests
+pandas
+Example .gitignore:
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
